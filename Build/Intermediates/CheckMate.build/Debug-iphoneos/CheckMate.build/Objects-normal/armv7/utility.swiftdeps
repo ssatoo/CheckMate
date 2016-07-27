@@ -1,0 +1,424 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "utility"
+provides-nominal:
+- "C9CheckMate7utility"
+provides-member:
+- ["C9CheckMate7utility", ""]
+provides-dynamic-lookup:
+- "ServiceRequest"
+- "mUser"
+- "isLogin"
+- "loadImageFromUrl"
+- "setLogin"
+- "updateUser"
+- "getLogInStatus"
+- "loadImageforCellFromUrl"
+- "getUser"
+depends-top-level:
+- "BooleanLiteralType"
+- "User"
+- "NSObject"
+- !private "NSURLSession"
+- "utility"
+- !private "NSURL"
+- "UIImageView"
+- !private "UnicodeScalarType"
+- "Bool"
+- !private "Void"
+- "String"
+- !private "StringLiteralType"
+- !private "dispatch_get_main_queue"
+- !private "UIImage"
+- !private "dispatch_async"
+depends-member:
+- !private ["Ps9AnyObject", "NSURL"]
+- !private ["Ps9AnyObject", "NSURLSession"]
+- ["Ps9AnyObject", "ServiceRequest"]
+- !private ["Ps9AnyObject", "String"]
+- !private ["Ps9AnyObject", "UIImage"]
+- ["Ps9AnyObject", "User"]
+- !private ["Ps9AnyObject", "dataTaskWithURL"]
+- !private ["Ps9AnyObject", "dispatch_async"]
+- !private ["Ps9AnyObject", "dispatch_get_main_queue"]
+- ["Ps9AnyObject", "getLogInStatus"]
+- ["Ps9AnyObject", "getUser"]
+- !private ["Ps9AnyObject", "hideToastActivity"]
+- !private ["Ps9AnyObject", "image"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "isLogin"]
+- ["Ps9AnyObject", "loadImageFromUrl"]
+- ["Ps9AnyObject", "loadImageforCellFromUrl"]
+- ["Ps9AnyObject", "mUser"]
+- !private ["Ps9AnyObject", "pass"]
+- !private ["Ps9AnyObject", "resume"]
+- ["Ps9AnyObject", "setLogin"]
+- !private ["Ps9AnyObject", "sharedSession"]
+- ["Ps9AnyObject", "updateUser"]
+- !private ["Ps9AnyObject", "userId"]
+- !private ["Ps9AnyObject", "userName"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "deinit"]
+- !private ["Ps11CVarArgType", "NSURL"]
+- !private ["Ps11CVarArgType", "NSURLSession"]
+- ["Ps11CVarArgType", "ServiceRequest"]
+- !private ["Ps11CVarArgType", "String"]
+- !private ["Ps11CVarArgType", "UIImage"]
+- ["Ps11CVarArgType", "User"]
+- !private ["Ps11CVarArgType", "dataTaskWithURL"]
+- !private ["Ps11CVarArgType", "dispatch_async"]
+- !private ["Ps11CVarArgType", "dispatch_get_main_queue"]
+- ["Ps11CVarArgType", "getLogInStatus"]
+- ["Ps11CVarArgType", "getUser"]
+- !private ["Ps11CVarArgType", "hideToastActivity"]
+- !private ["Ps11CVarArgType", "image"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "isLogin"]
+- ["Ps11CVarArgType", "loadImageFromUrl"]
+- ["Ps11CVarArgType", "loadImageforCellFromUrl"]
+- ["Ps11CVarArgType", "mUser"]
+- !private ["Ps11CVarArgType", "pass"]
+- !private ["Ps11CVarArgType", "resume"]
+- ["Ps11CVarArgType", "setLogin"]
+- !private ["Ps11CVarArgType", "sharedSession"]
+- ["Ps11CVarArgType", "updateUser"]
+- !private ["Ps11CVarArgType", "userId"]
+- !private ["Ps11CVarArgType", "userName"]
+- ["Ps11CVarArgType", ""]
+- !private ["Vs9Character", "deinit"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "NSURL"]
+- !private ["Ps28CustomDebugStringConvertible", "NSURLSession"]
+- ["Ps28CustomDebugStringConvertible", "ServiceRequest"]
+- !private ["Ps28CustomDebugStringConvertible", "Some"]
+- !private ["Ps28CustomDebugStringConvertible", "String"]
+- !private ["Ps28CustomDebugStringConvertible", "UIImage"]
+- ["Ps28CustomDebugStringConvertible", "User"]
+- !private ["Ps28CustomDebugStringConvertible", "dataTaskWithURL"]
+- !private ["Ps28CustomDebugStringConvertible", "dispatch_async"]
+- !private ["Ps28CustomDebugStringConvertible", "dispatch_get_main_queue"]
+- ["Ps28CustomDebugStringConvertible", "getLogInStatus"]
+- ["Ps28CustomDebugStringConvertible", "getUser"]
+- !private ["Ps28CustomDebugStringConvertible", "hideToastActivity"]
+- !private ["Ps28CustomDebugStringConvertible", "image"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "isLogin"]
+- ["Ps28CustomDebugStringConvertible", "loadImageFromUrl"]
+- ["Ps28CustomDebugStringConvertible", "loadImageforCellFromUrl"]
+- ["Ps28CustomDebugStringConvertible", "mUser"]
+- !private ["Ps28CustomDebugStringConvertible", "pass"]
+- !private ["Ps28CustomDebugStringConvertible", "resume"]
+- ["Ps28CustomDebugStringConvertible", "setLogin"]
+- !private ["Ps28CustomDebugStringConvertible", "sharedSession"]
+- ["Ps28CustomDebugStringConvertible", "updateUser"]
+- !private ["Ps28CustomDebugStringConvertible", "userId"]
+- !private ["Ps28CustomDebugStringConvertible", "userName"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "NSURL"]
+- !private ["Ps23CustomStringConvertible", "NSURLSession"]
+- ["Ps23CustomStringConvertible", "ServiceRequest"]
+- !private ["Ps23CustomStringConvertible", "String"]
+- !private ["Ps23CustomStringConvertible", "UIImage"]
+- ["Ps23CustomStringConvertible", "User"]
+- !private ["Ps23CustomStringConvertible", "dataTaskWithURL"]
+- !private ["Ps23CustomStringConvertible", "dispatch_async"]
+- !private ["Ps23CustomStringConvertible", "dispatch_get_main_queue"]
+- ["Ps23CustomStringConvertible", "getLogInStatus"]
+- ["Ps23CustomStringConvertible", "getUser"]
+- !private ["Ps23CustomStringConvertible", "hideToastActivity"]
+- !private ["Ps23CustomStringConvertible", "image"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "isLogin"]
+- ["Ps23CustomStringConvertible", "loadImageFromUrl"]
+- ["Ps23CustomStringConvertible", "loadImageforCellFromUrl"]
+- ["Ps23CustomStringConvertible", "mUser"]
+- !private ["Ps23CustomStringConvertible", "pass"]
+- !private ["Ps23CustomStringConvertible", "resume"]
+- ["Ps23CustomStringConvertible", "setLogin"]
+- !private ["Ps23CustomStringConvertible", "sharedSession"]
+- ["Ps23CustomStringConvertible", "updateUser"]
+- !private ["Ps23CustomStringConvertible", "userId"]
+- !private ["Ps23CustomStringConvertible", "userName"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "NSURL"]
+- !private ["Ps9Equatable", "NSURLSession"]
+- ["Ps9Equatable", "ServiceRequest"]
+- !private ["Ps9Equatable", "String"]
+- !private ["Ps9Equatable", "UIImage"]
+- ["Ps9Equatable", "User"]
+- !private ["Ps9Equatable", "dataTaskWithURL"]
+- !private ["Ps9Equatable", "dispatch_async"]
+- !private ["Ps9Equatable", "dispatch_get_main_queue"]
+- ["Ps9Equatable", "getLogInStatus"]
+- ["Ps9Equatable", "getUser"]
+- !private ["Ps9Equatable", "hideToastActivity"]
+- !private ["Ps9Equatable", "image"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "isLogin"]
+- ["Ps9Equatable", "loadImageFromUrl"]
+- ["Ps9Equatable", "loadImageforCellFromUrl"]
+- ["Ps9Equatable", "mUser"]
+- !private ["Ps9Equatable", "pass"]
+- !private ["Ps9Equatable", "resume"]
+- ["Ps9Equatable", "setLogin"]
+- !private ["Ps9Equatable", "sharedSession"]
+- ["Ps9Equatable", "updateUser"]
+- !private ["Ps9Equatable", "userId"]
+- !private ["Ps9Equatable", "userName"]
+- ["Ps9Equatable", ""]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Sf", "deinit"]
+- !private ["Ps8Hashable", "NSURL"]
+- !private ["Ps8Hashable", "NSURLSession"]
+- ["Ps8Hashable", "ServiceRequest"]
+- !private ["Ps8Hashable", "String"]
+- !private ["Ps8Hashable", "UIImage"]
+- ["Ps8Hashable", "User"]
+- !private ["Ps8Hashable", "dataTaskWithURL"]
+- !private ["Ps8Hashable", "dispatch_async"]
+- !private ["Ps8Hashable", "dispatch_get_main_queue"]
+- ["Ps8Hashable", "getLogInStatus"]
+- ["Ps8Hashable", "getUser"]
+- !private ["Ps8Hashable", "hideToastActivity"]
+- !private ["Ps8Hashable", "image"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "isLogin"]
+- ["Ps8Hashable", "loadImageFromUrl"]
+- ["Ps8Hashable", "loadImageforCellFromUrl"]
+- ["Ps8Hashable", "mUser"]
+- !private ["Ps8Hashable", "pass"]
+- !private ["Ps8Hashable", "resume"]
+- ["Ps8Hashable", "setLogin"]
+- !private ["Ps8Hashable", "sharedSession"]
+- ["Ps8Hashable", "updateUser"]
+- !private ["Ps8Hashable", "userId"]
+- !private ["Ps8Hashable", "userName"]
+- ["Ps8Hashable", ""]
+- !private ["SQ", "deinit"]
+- !private ["Si", "deinit"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- !private ["Ps14MirrorPathType", "init"]
+- !private ["PSo8NSCoding", "hideToastActivity"]
+- !private ["PSo8NSCoding", "image"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "resume"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "NSURL"]
+- !private ["CSo8NSObject", "NSURLSession"]
+- ["CSo8NSObject", "ServiceRequest"]
+- ["CSo8NSObject", "String"]
+- !private ["CSo8NSObject", "UIImage"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "User"]
+- !private ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "dataTaskWithURL"]
+- !private ["CSo8NSObject", "dispatch_async"]
+- !private ["CSo8NSObject", "dispatch_get_main_queue"]
+- ["CSo8NSObject", "getLogInStatus"]
+- ["CSo8NSObject", "getUser"]
+- !private ["CSo8NSObject", "hideToastActivity"]
+- !private ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "isLogin"]
+- ["CSo8NSObject", "loadImageFromUrl"]
+- ["CSo8NSObject", "loadImageforCellFromUrl"]
+- ["CSo8NSObject", "mUser"]
+- !private ["CSo8NSObject", "pass"]
+- !private ["CSo8NSObject", "resume"]
+- ["CSo8NSObject", "setLogin"]
+- !private ["CSo8NSObject", "sharedSession"]
+- ["CSo8NSObject", "updateUser"]
+- !private ["CSo8NSObject", "userId"]
+- !private ["CSo8NSObject", "userName"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "NSURL"]
+- !private ["PSo16NSObjectProtocol", "NSURLSession"]
+- ["PSo16NSObjectProtocol", "ServiceRequest"]
+- !private ["PSo16NSObjectProtocol", "String"]
+- !private ["PSo16NSObjectProtocol", "UIImage"]
+- ["PSo16NSObjectProtocol", "User"]
+- !private ["PSo16NSObjectProtocol", "dataTaskWithURL"]
+- !private ["PSo16NSObjectProtocol", "dispatch_async"]
+- !private ["PSo16NSObjectProtocol", "dispatch_get_main_queue"]
+- ["PSo16NSObjectProtocol", "getLogInStatus"]
+- ["PSo16NSObjectProtocol", "getUser"]
+- !private ["PSo16NSObjectProtocol", "hideToastActivity"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "isLogin"]
+- ["PSo16NSObjectProtocol", "loadImageFromUrl"]
+- ["PSo16NSObjectProtocol", "loadImageforCellFromUrl"]
+- ["PSo16NSObjectProtocol", "mUser"]
+- !private ["PSo16NSObjectProtocol", "pass"]
+- !private ["PSo16NSObjectProtocol", "resume"]
+- ["PSo16NSObjectProtocol", "setLogin"]
+- !private ["PSo16NSObjectProtocol", "sharedSession"]
+- ["PSo16NSObjectProtocol", "updateUser"]
+- !private ["PSo16NSObjectProtocol", "userId"]
+- !private ["PSo16NSObjectProtocol", "userName"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["CSo5NSURL", "init"]
+- !private ["CSo12NSURLSession", "dataTaskWithURL"]
+- !private ["CSo12NSURLSession", "sharedSession"]
+- !private ["CSo20NSURLSessionDataTask", "resume"]
+- !private ["CSo16NSURLSessionTask", "resume"]
+- !private ["Ps21NilLiteralConvertible", "Some"]
+- !private ["Sq", "Some"]
+- !private ["Ps16OutputStreamType", "init"]
+- !private ["Ps10Streamable", "init"]
+- !private ["SS", "init"]
+- !private ["Ps30StringInterpolationConvertible", "init"]
+- !private ["Ps24StringLiteralConvertible", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "hideToastActivity"]
+- !private ["PSo29UIAccessibilityIdentification", "image"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo12UIAppearance", "hideToastActivity"]
+- !private ["PSo12UIAppearance", "image"]
+- !private ["PSo21UIAppearanceContainer", "hideToastActivity"]
+- !private ["PSo21UIAppearanceContainer", "image"]
+- !private ["PSo17UICoordinateSpace", "hideToastActivity"]
+- !private ["PSo17UICoordinateSpace", "image"]
+- !private ["PSo13UIDynamicItem", "hideToastActivity"]
+- !private ["PSo13UIDynamicItem", "image"]
+- !private ["PSo18UIFocusEnvironment", "hideToastActivity"]
+- !private ["PSo18UIFocusEnvironment", "image"]
+- !private ["CSo7UIImage", "init"]
+- !private ["CSo11UIImageView", "hideToastActivity"]
+- !private ["CSo11UIImageView", "image"]
+- !private ["CSo11UIResponder", "hideToastActivity"]
+- !private ["CSo11UIResponder", "image"]
+- !private ["PSo18UITraitEnvironment", "hideToastActivity"]
+- !private ["PSo18UITraitEnvironment", "image"]
+- !private ["CSo6UIView", "hideToastActivity"]
+- !private ["CSo6UIView", "image"]
+- !private ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "init"]
+- ["C9CheckMate4User", "init"]
+- !private ["C9CheckMate4User", "pass"]
+- !private ["C9CheckMate4User", "userId"]
+- !private ["C9CheckMate4User", "userName"]
+- !private ["Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Ps32_BuiltinStringLiteralConvertible", "init"]
+- !private ["Ps37_BuiltinUTF16StringLiteralConvertible", "init"]
+- !private ["Ps39_BuiltinUnicodeScalarLiteralConvertible", "init"]
+- !private ["Ps32_FileReferenceLiteralConvertible", "init"]
+- !private ["Ps24_ImageLiteralConvertible", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps12_Reflectable", "Some"]
+- !private ["Ps12_Reflectable", "hideToastActivity"]
+- !private ["Ps12_Reflectable", "image"]
+- !private ["Ps12_Reflectable", "init"]
+- ["C9CheckMate7utility", "Bool"]
+- !private ["C9CheckMate7utility", "NSURL"]
+- !private ["C9CheckMate7utility", "NSURLSession"]
+- ["C9CheckMate7utility", "ServiceRequest"]
+- ["C9CheckMate7utility", "String"]
+- !private ["C9CheckMate7utility", "UIImage"]
+- ["C9CheckMate7utility", "UIImageView"]
+- ["C9CheckMate7utility", "User"]
+- !private ["C9CheckMate7utility", "Void"]
+- ["C9CheckMate7utility", "deinit"]
+- !private ["C9CheckMate7utility", "dispatch_async"]
+- !private ["C9CheckMate7utility", "dispatch_get_main_queue"]
+- ["C9CheckMate7utility", "getLogInStatus"]
+- ["C9CheckMate7utility", "getUser"]
+- ["C9CheckMate7utility", "init"]
+- ["C9CheckMate7utility", "isLogin"]
+- ["C9CheckMate7utility", "loadImageFromUrl"]
+- ["C9CheckMate7utility", "loadImageforCellFromUrl"]
+- ["C9CheckMate7utility", "mUser"]
+- ["C9CheckMate7utility", "setLogin"]
+- ["C9CheckMate7utility", "updateUser"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sb"
+- "Ps11CVarArgType"
+- !private "Vs9Character"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps41ExtendedGraphemeClusterLiteralConvertible"
+- !private "Sf"
+- "Ps8Hashable"
+- !private "SQ"
+- !private "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- !private "Ps14MirrorPathType"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "CSo5NSURL"
+- !private "CSo12NSURLSession"
+- !private "CSo20NSURLSessionDataTask"
+- !private "CSo16NSURLSessionTask"
+- !private "Ps21NilLiteralConvertible"
+- !private "Sq"
+- !private "Ps16OutputStreamType"
+- !private "Ps10Streamable"
+- !private "SS"
+- !private "Ps30StringInterpolationConvertible"
+- !private "Ps24StringLiteralConvertible"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- !private "PSo21UIAppearanceContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "PSo18UIFocusEnvironment"
+- !private "CSo7UIImage"
+- !private "CSo11UIImageView"
+- !private "CSo11UIResponder"
+- !private "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- !private "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- !private "Sc"
+- !private "Ps31UnicodeScalarLiteralConvertible"
+- "C9CheckMate4User"
+- !private "Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "Ps32_BuiltinStringLiteralConvertible"
+- !private "Ps37_BuiltinUTF16StringLiteralConvertible"
+- !private "Ps39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "Ps32_FileReferenceLiteralConvertible"
+- !private "Ps24_ImageLiteralConvertible"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps12_Reflectable"
+- "C9CheckMate7utility"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreAudio.swiftmodule"
+interface-hash: "1f66eb2bef9db9338b8a2da334a17478"

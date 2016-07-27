@@ -1,0 +1,171 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Votecells"
+provides-nominal:
+- "C9CheckMate9Votecells"
+provides-member:
+- ["C9CheckMate9Votecells", ""]
+provides-dynamic-lookup:
+- "upVoteLbl"
+- "imageForVote"
+- "downVoteLbl"
+depends-top-level:
+- "UILabel"
+- "UIImageView"
+- "UITableViewCell"
+- "Votecells"
+depends-member:
+- ["Ps9AnyObject", "downVoteLbl"]
+- ["Ps9AnyObject", "imageForVote"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "upVoteLbl"]
+- ["Ps9AnyObject", ""]
+- ["Ps11CVarArgType", "downVoteLbl"]
+- ["Ps11CVarArgType", "imageForVote"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "upVoteLbl"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "downVoteLbl"]
+- ["Ps28CustomDebugStringConvertible", "imageForVote"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "upVoteLbl"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "downVoteLbl"]
+- ["Ps23CustomStringConvertible", "imageForVote"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "upVoteLbl"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "downVoteLbl"]
+- ["Ps9Equatable", "imageForVote"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "upVoteLbl"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "downVoteLbl"]
+- ["Ps8Hashable", "imageForVote"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "upVoteLbl"]
+- ["Ps8Hashable", ""]
+- ["PSo8NSCoding", "downVoteLbl"]
+- ["PSo8NSCoding", "imageForVote"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "upVoteLbl"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "downVoteLbl"]
+- ["CSo8NSObject", "imageForVote"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "upVoteLbl"]
+- ["PSo16NSObjectProtocol", "downVoteLbl"]
+- ["PSo16NSObjectProtocol", "imageForVote"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "upVoteLbl"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo29UIAccessibilityIdentification", "downVoteLbl"]
+- ["PSo29UIAccessibilityIdentification", "imageForVote"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "upVoteLbl"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "downVoteLbl"]
+- ["PSo12UIAppearance", "imageForVote"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "upVoteLbl"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "downVoteLbl"]
+- ["PSo21UIAppearanceContainer", "imageForVote"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "upVoteLbl"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "downVoteLbl"]
+- ["PSo17UICoordinateSpace", "imageForVote"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "upVoteLbl"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "downVoteLbl"]
+- ["PSo13UIDynamicItem", "imageForVote"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "upVoteLbl"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "downVoteLbl"]
+- ["PSo18UIFocusEnvironment", "imageForVote"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "upVoteLbl"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo27UIGestureRecognizerDelegate", "downVoteLbl"]
+- ["PSo27UIGestureRecognizerDelegate", "imageForVote"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "upVoteLbl"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "downVoteLbl"]
+- ["CSo11UIResponder", "imageForVote"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "upVoteLbl"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "downVoteLbl"]
+- ["CSo15UITableViewCell", "imageForVote"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "upVoteLbl"]
+- ["CSo15UITableViewCell", ""]
+- ["PSo18UITraitEnvironment", "downVoteLbl"]
+- ["PSo18UITraitEnvironment", "imageForVote"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "upVoteLbl"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "downVoteLbl"]
+- ["CSo6UIView", "imageForVote"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "upVoteLbl"]
+- ["C9CheckMate9Votecells", "UIImageView"]
+- ["C9CheckMate9Votecells", "UILabel"]
+- ["C9CheckMate9Votecells", "deinit"]
+- ["C9CheckMate9Votecells", "downVoteLbl"]
+- ["C9CheckMate9Votecells", "imageForVote"]
+- ["C9CheckMate9Votecells", "init"]
+- ["C9CheckMate9Votecells", "upVoteLbl"]
+- ["Ps12_Reflectable", "downVoteLbl"]
+- ["Ps12_Reflectable", "imageForVote"]
+- ["Ps12_Reflectable", "init"]
+- ["Ps12_Reflectable", "upVoteLbl"]
+- ["Ps12_Reflectable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "C9CheckMate9Votecells"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreAudio.swiftmodule"
+interface-hash: "6f854f3306adca78dd135c5b3327133c"

@@ -1,0 +1,16 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "25534d8553a710a5326f006efd7758d4"
+build_time: [517931115, 387873000]
+inputs:
+  "/Users/christosnikolakakos/workspace/CheckMate/CheckMate/Photo.swift": [516457418, 0]
+  "/Users/christosnikolakakos/workspace/CheckMate/CheckMate/hystoryTableViewController.swift": [517919312, 0]
+  "/Users/christosnikolakakos/workspace/CheckMate/CheckMate/MyImageCache.swift": [517409724, 0]
+  "/Users/christosnikolakakos/workspace/CheckMate/CheckMate/Votecells.swift": [516199571, 0]
+  "/Users/christosnikolakakos/workspace/CheckMate/CheckMate/SecondViewController.swift": [517931114, 0]
+  "/Users/christosnikolakakos/workspace/CheckMate/CheckMate/AppDelegate.swift": [515859473, 0]
+  "/Users/christosnikolakakos/workspace/CheckMate/CheckMate/votePhoteViewController.swift": [517919355, 0]
+  "/Users/christosnikolakakos/workspace/CheckMate/CheckMate/utility.swift": [517921974, 0]
+  "/Users/christosnikolakakos/workspace/CheckMate/CheckMate/FirstViewController.swift": [517405977, 0]
+  "/Users/christosnikolakakos/workspace/CheckMate/CheckMate/User.swift": [517404783, 0]
+  "/Users/christosnikolakakos/workspace/CheckMate/CheckMate/PhotoViewController.swift": [516968222, 0]
+  "/Users/christosnikolakakos/workspace/CheckMate/CheckMate/HRToast + UIView.swift": [509049781, 0]
